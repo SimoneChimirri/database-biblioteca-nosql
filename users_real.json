@@ -1,0 +1,905 @@
+{
+  "users": [
+    {
+      "_id": "59b99db5cfa9a34dcd7885b9",
+      "name": "Mario",
+      "surname": "Rossi",
+      "birthDate": "1978-03-18",
+      "birthPlace": "Wroclaw",
+      "email": "mario.rossi@alice.it",
+      "loans": [
+        {
+          "_id": "tre09uio",
+          "bookTitle": "Il barone rampante",
+          "borrowDate": "2024-05-01",
+          "returnDate": "2024-06-01"
+        },
+        {
+          "_id": "acf86oki",
+          "bookTitle": "Il nome della rosa",
+          "borrowDate": "2024-08-09",
+          "returnDate": "2024-09-09"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885ba",
+      "name": "Luigi",
+      "surname": "Bianchi",
+      "birthDate": "1985-07-22",
+      "birthPlace": "Milano",
+      "email": "luigi.bianchi@gmail.com",
+      "loans": [
+        {
+          "_id": "ghj78ytr",
+          "bookTitle": "1984",
+          "borrowDate": "2024-01-15",
+          "returnDate": "2024-02-15"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885bb",
+      "name": "Anna",
+      "surname": "Verdi",
+      "birthDate": "1992-11-05",
+      "birthPlace": "Roma",
+      "email": "anna.verdi@hotmail.com",
+      "loans": [
+        {
+          "_id": "lkj43qwe",
+          "bookTitle": "L'amica geniale",
+          "borrowDate": "2024-03-10",
+          "returnDate": "2024-04-10"
+        },
+        {
+          "_id": "mnb12vfr",
+          "bookTitle": "Storia del nuovo cognome",
+          "borrowDate": "2024-06-20",
+          "returnDate": "2024-07-20"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885bc",
+      "name": "Giovanni",
+      "surname": "Neri",
+      "birthDate": "1965-09-30",
+      "birthPlace": "Napoli",
+      "email": "giovanni.neri@libero.it",
+      "loans": [
+        {
+          "_id": "poi98uyt",
+          "bookTitle": "Se questo è un uomo",
+          "borrowDate": "2024-02-05",
+          "returnDate": "2024-03-05"
+        },
+        {
+          "_id": "qaz56wsx",
+          "bookTitle": "La tregua",
+          "borrowDate": "2024-05-12",
+          "returnDate": "2024-06-12"
+        },
+        {
+          "_id": "edc34rfv",
+          "bookTitle": "I sommersi e i salvati",
+          "borrowDate": "2024-09-01",
+          "returnDate": "2024-10-01"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885bd",
+      "name": "Elena",
+      "surname": "Ferrari",
+      "birthDate": "1988-04-15",
+      "birthPlace": "Torino",
+      "email": "elena.ferrari@yahoo.com",
+      "loans": [
+        {
+          "_id": "tgb67yhn",
+          "bookTitle": "To Kill a Mockingbird",
+          "borrowDate": "2024-07-18",
+          "returnDate": "2024-08-18"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885be",
+      "name": "Paolo",
+      "surname": "Russo",
+      "birthDate": "1973-12-08",
+      "birthPlace": "Palermo",
+      "email": "paolo.russo@alice.it",
+      "loans": [
+        {
+          "_id": "ujm89ikm",
+          "bookTitle": "Il pendolo di Foucault",
+          "borrowDate": "2024-04-22",
+          "returnDate": "2024-05-22"
+        },
+        {
+          "_id": "plm21okn",
+          "bookTitle": "Il fu Mattia Pascal",
+          "borrowDate": "2024-10-10",
+          "returnDate": "2024-11-10"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885bf",
+      "name": "Francesca",
+      "surname": "Esposito",
+      "birthDate": "1995-06-25",
+      "birthPlace": "Firenze",
+      "email": "francesca.esposito@gmail.com",
+      "loans": [
+        {
+          "_id": "qwe45tgb",
+          "bookTitle": "Cent'anni di solitudine",
+          "borrowDate": "2024-03-05",
+          "returnDate": "2024-04-05"
+        },
+        {
+          "_id": "yhn67ujm",
+          "bookTitle": "One Hundred Years of Solitude",
+          "borrowDate": "2024-07-15",
+          "returnDate": "2024-08-15"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885c0",
+      "name": "Marco",
+      "surname": "Romano",
+      "birthDate": "1980-01-12",
+      "birthPlace": "Bologna",
+      "email": "marco.romano@hotmail.com",
+      "loans": [
+        {
+          "_id": "ikm89plm",
+          "bookTitle": "The Hobbit",
+          "borrowDate": "2024-02-18",
+          "returnDate": "2024-03-18"
+        },
+        {
+          "_id": "okn21qwe",
+          "bookTitle": "The Lord of the Rings",
+          "borrowDate": "2024-06-30",
+          "returnDate": "2024-07-30"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885c1",
+      "name": "Laura",
+      "surname": "Gallo",
+      "birthDate": "1990-08-03",
+      "birthPlace": "Genova",
+      "email": "laura.gallo@yahoo.com",
+      "loans": [
+        {
+          "_id": "tgb67yhn",
+          "bookTitle": "Gomorra",
+          "borrowDate": "2024-05-08",
+          "returnDate": "2024-06-08"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885c2",
+      "name": "Andrea",
+      "surname": "Conti",
+      "birthDate": "1976-10-20",
+      "birthPlace": "Venezia",
+      "email": "andrea.conti@libero.it",
+      "loans": [
+        {
+          "_id": "rfv34edc",
+          "bookTitle": "La solitudine dei numeri primi",
+          "borrowDate": "2024-01-25",
+          "returnDate": "2024-02-25"
+        },
+        {
+          "_id": "wsx56qaz",
+          "bookTitle": "Caos calmo",
+          "borrowDate": "2024-04-14",
+          "returnDate": "2024-05-14"
+        },
+        {
+          "_id": "yhn67ujm",
+          "bookTitle": "Le otto montagne",
+          "borrowDate": "2024-09-05",
+          "returnDate": "2024-10-05"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885c3",
+      "name": "Sofia",
+      "surname": "Marino",
+      "birthDate": "1987-02-14",
+      "birthPlace": "Bari",
+      "email": "sofia.marino@gmail.com",
+      "loans": [
+        {
+          "_id": "ujm89ikm",
+          "bookTitle": "The Alchemist",
+          "borrowDate": "2024-03-12",
+          "returnDate": "2024-04-12"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885c4",
+      "name": "Antonio",
+      "surname": "Greco",
+      "birthDate": "1969-07-07",
+      "birthPlace": "Catania",
+      "email": "antonio.greco@alice.it",
+      "loans": [
+        {
+          "_id": "plm21okn",
+          "bookTitle": "Cristo si è fermato a Eboli",
+          "borrowDate": "2024-02-28",
+          "returnDate": "2024-03-28"
+        },
+        {
+          "_id": "qwe45tgb",
+          "bookTitle": "Lessico famigliare",
+          "borrowDate": "2024-07-22",
+          "returnDate": "2024-08-22"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885c5",
+      "name": "Giulia",
+      "surname": "Barbieri",
+      "birthDate": "1993-12-01",
+      "birthPlace": "Verona",
+      "email": "giulia.barbieri@hotmail.com",
+      "loans": [
+        {
+          "_id": "okn21qwe",
+          "bookTitle": "The Catcher in the Rye",
+          "borrowDate": "2024-05-17",
+          "returnDate": "2024-06-17"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885c6",
+      "name": "Roberto",
+      "surname": "Moretti",
+      "birthDate": "1982-09-09",
+      "birthPlace": "Trieste",
+      "email": "roberto.moretti@yahoo.com",
+      "loans": [
+        {
+          "_id": "edc34rfv",
+          "bookTitle": "Il visconte dimezzato",
+          "borrowDate": "2024-04-03",
+          "returnDate": "2024-05-03"
+        },
+        {
+          "_id": "wsx56qaz",
+          "bookTitle": "Il cavaliere inesistente",
+          "borrowDate": "2024-08-11",
+          "returnDate": "2024-09-11"
+        },
+        {
+          "_id": "tgb67yhn",
+          "bookTitle": "Se una notte d'inverno un viaggiatore",
+          "borrowDate": "2024-11-20",
+          "returnDate": "2024-12-20"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885c7",
+      "name": "Elisa",
+      "surname": "Fontana",
+      "birthDate": "1998-05-18",
+      "birthPlace": "Padova",
+      "email": "elisa.fontana@gmail.com",
+      "loans": [
+        {
+          "_id": "yhn67ujm",
+          "bookTitle": "Il deserto dei Tartari",
+          "borrowDate": "2024-06-25",
+          "returnDate": "2024-07-25"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885c8",
+      "name": "Davide",
+      "surname": "Santoro",
+      "birthDate": "1971-03-27",
+      "birthPlace": "Taranto",
+      "email": "davide.santoro@libero.it",
+      "loans": [
+        {
+          "_id": "ujm89ikm",
+          "bookTitle": "The Da Vinci Code",
+          "borrowDate": "2024-01-30",
+          "returnDate": "2024-02-28"
+        },
+        {
+          "_id": "plm21okn",
+          "bookTitle": "Una vita",
+          "borrowDate": "2024-05-05",
+          "returnDate": "2024-06-05"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885c9",
+      "name": "Valentina",
+      "surname": "Riva",
+      "birthDate": "1989-11-22",
+      "birthPlace": "Brescia",
+      "email": "valentina.riva@hotmail.com",
+      "loans": [
+        {
+          "_id": "qwe45tgb",
+          "bookTitle": "Un cuore semplice",
+          "borrowDate": "2024-03-15",
+          "returnDate": "2024-04-15"
+        },
+        {
+          "_id": "okn21qwe",
+          "bookTitle": "The Great Gatsby",
+          "borrowDate": "2024-09-10",
+          "returnDate": "2024-10-10"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885ca",
+      "name": "Simone",
+      "surname": "Palumbo",
+      "birthDate": "1984-06-08",
+      "birthPlace": "Reggio Calabria",
+      "email": "simone.palumbo@yahoo.com",
+      "loans": [
+        {
+          "_id": "edc34rfv",
+          "bookTitle": "Chi ha incastrato Roger Rabbit",
+          "borrowDate": "2024-07-03",
+          "returnDate": "2024-08-03"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885cb",
+      "name": "Alessia",
+      "surname": "Serra",
+      "birthDate": "1996-04-17",
+      "birthPlace": "Modena",
+      "email": "alessia.serra@gmail.com",
+      "loans": [
+        {
+          "_id": "wsx56qaz",
+          "bookTitle": "Crime and Punishment",
+          "borrowDate": "2024-02-10",
+          "returnDate": "2024-03-10"
+        },
+        {
+          "_id": "tgb67yhn",
+          "bookTitle": "La montagna incantata",
+          "borrowDate": "2024-06-15",
+          "returnDate": "2024-07-15"
+        },
+        {
+          "_id": "yhn67ujm",
+          "bookTitle": "L'insostenibile leggerezza dell'essere",
+          "borrowDate": "2024-10-25",
+          "returnDate": "2024-11-25"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885cc",
+      "name": "Fabio",
+      "surname": "Martini",
+      "birthDate": "1979-08-29",
+      "birthPlace": "Parma",
+      "email": "fabio.martini@alice.it",
+      "loans": [
+        {
+          "_id": "ujm89ikm",
+          "bookTitle": "Uno, nessuno e centomila",
+          "borrowDate": "2024-04-20",
+          "returnDate": "2024-05-20"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885cd",
+      "name": "Chiara",
+      "surname": "Ferri",
+      "birthDate": "1991-01-03",
+      "birthPlace": "Livorno",
+      "email": "chiara.ferri@hotmail.com",
+      "loans": [
+        {
+          "_id": "plm21okn",
+          "bookTitle": "Io non ho paura",
+          "borrowDate": "2024-03-08",
+          "returnDate": "2024-04-08"
+        },
+        {
+          "_id": "qwe45tgb",
+          "bookTitle": "Senilità",
+          "borrowDate": "2024-08-12",
+          "returnDate": "2024-09-12"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885ce",
+      "name": "Riccardo",
+      "surname": "Gentile",
+      "birthDate": "1986-10-11",
+      "birthPlace": "Perugia",
+      "email": "riccardo.gentile@yahoo.com",
+      "loans": [
+        {
+          "_id": "okn21qwe",
+          "bookTitle": "La Peste",
+          "borrowDate": "2024-05-22",
+          "returnDate": "2024-06-22"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885cf",
+      "name": "Martina",
+      "surname": "Villa",
+      "birthDate": "1994-07-04",
+      "birthPlace": "Ravenna",
+      "email": "martina.villa@gmail.com",
+      "loans": [
+        {
+          "_id": "edc34rfv",
+          "bookTitle": "Homo Deus",
+          "borrowDate": "2024-01-18",
+          "returnDate": "2024-02-18"
+        },
+        {
+          "_id": "wsx56qaz",
+          "bookTitle": "Brave New World",
+          "borrowDate": "2024-07-28",
+          "returnDate": "2024-08-28"
+        },
+        {
+          "_id": "tgb67yhn",
+          "bookTitle": "Tre metri sopra il cielo",
+          "borrowDate": "2024-11-15",
+          "returnDate": "2024-12-15"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885d0",
+      "name": "Daniele",
+      "surname": "Mazza",
+      "birthDate": "1977-12-24",
+      "birthPlace": "Foggia",
+      "email": "daniele.mazza@libero.it",
+      "loans": [
+        {
+          "_id": "yhn67ujm",
+          "bookTitle": "Harry Potter and the Philosopher's Stone",
+          "borrowDate": "2024-06-08",
+          "returnDate": "2024-07-08"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885d1",
+      "name": "Silvia",
+      "surname": "Pellegrini",
+      "birthDate": "1983-05-19",
+      "birthPlace": "Bergamo",
+      "email": "silvia.pellegrini@hotmail.com",
+      "loans": [
+        {
+          "_id": "ujm89ikm",
+          "bookTitle": "La metamorfosi",
+          "borrowDate": "2024-04-05",
+          "returnDate": "2024-05-05"
+        },
+        {
+          "_id": "plm21okn",
+          "bookTitle": "Jane Eyre",
+          "borrowDate": "2024-09-20",
+          "returnDate": "2024-10-20"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885d2",
+      "name": "Giacomo",
+      "surname": "Silvestri",
+      "birthDate": "1997-02-28",
+      "birthPlace": "Bolzano",
+      "email": "giacomo.silvestri@yahoo.com",
+      "loans": [
+        {
+          "_id": "qwe45tgb",
+          "bookTitle": "Gomorrah",
+          "borrowDate": "2024-03-25",
+          "returnDate": "2024-04-25"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885d3",
+      "name": "Eva",
+      "surname": "Rizzi",
+      "birthDate": "1981-09-14",
+      "birthPlace": "Udine",
+      "email": "eva.rizzi@gmail.com",
+      "loans": [
+        {
+          "_id": "okn21qwe",
+          "bookTitle": "La straniera",
+          "borrowDate": "2024-07-10",
+          "returnDate": "2024-08-10"
+        },
+        {
+          "_id": "edc34rfv",
+          "bookTitle": "Fahrenheit 451",
+          "borrowDate": "2024-10-30",
+          "returnDate": "2024-11-30"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885d4",
+      "name": "Luca",
+      "surname": "Caruso",
+      "birthDate": "1974-11-07",
+      "birthPlace": "Siracusa",
+      "email": "luca.caruso@alice.it",
+      "loans": [
+        {
+          "_id": "wsx56qaz",
+          "bookTitle": "Quella che vi resta",
+          "borrowDate": "2024-05-30",
+          "returnDate": "2024-06-30"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885d5",
+      "name": "Greta",
+      "surname": "Marchetti",
+      "birthDate": "1999-03-21",
+      "birthPlace": "Pescara",
+      "email": "greta.marchetti@hotmail.com",
+      "loans": [
+        {
+          "_id": "tgb67yhn",
+          "bookTitle": "Pride and Prejudice",
+          "borrowDate": "2024-02-15",
+          "returnDate": "2024-03-15"
+        },
+        {
+          "_id": "yhn67ujm",
+          "bookTitle": "The Hunger Games",
+          "borrowDate": "2024-08-25",
+          "returnDate": "2024-09-25"
+        },
+        {
+          "_id": "ujm89ikm",
+          "bookTitle": "Chi ha paura di Virginia Woolf?",
+          "borrowDate": "2024-12-10",
+          "returnDate": "2025-01-10"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885d6",
+      "name": "Federico",
+      "surname": "Testa",
+      "birthDate": "1988-06-02",
+      "birthPlace": "Trento",
+      "email": "federico.testa@yahoo.com",
+      "loans": [
+        {
+          "_id": "plm21okn",
+          "bookTitle": "Le Petit Prince",
+          "borrowDate": "2024-04-10",
+          "returnDate": "2024-05-10"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885d7",
+      "name": "Aurora",
+      "surname": "Sanna",
+      "birthDate": "1992-12-09",
+      "birthPlace": "Ancona",
+      "email": "aurora.sanna@gmail.com",
+      "loans": [
+        {
+          "_id": "qwe45tgb",
+          "bookTitle": "L'Étranger",
+          "borrowDate": "2024-03-20",
+          "returnDate": "2024-04-20"
+        },
+        {
+          "_id": "okn21qwe",
+          "bookTitle": "I promessi sposi",
+          "borrowDate": "2024-09-15",
+          "returnDate": "2024-10-15"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885d8",
+      "name": "Matteo",
+      "surname": "Parisi",
+      "birthDate": "1975-04-16",
+      "birthPlace": "Cagliari",
+      "email": "matteo.parisi@libero.it",
+      "loans": [
+        {
+          "_id": "edc34rfv",
+          "bookTitle": "Sapiens",
+          "borrowDate": "2024-06-18",
+          "returnDate": "2024-07-18"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885d9",
+      "name": "Beatrice",
+      "surname": "Conte",
+      "birthDate": "1980-10-23",
+      "birthPlace": "Piacenza",
+      "email": "beatrice.conte@hotmail.com",
+      "loans": [
+        {
+          "_id": "wsx56qaz",
+          "bookTitle": "A Brief History of Time",
+          "borrowDate": "2024-01-28",
+          "returnDate": "2024-02-28"
+        },
+        {
+          "_id": "tgb67yhn",
+          "bookTitle": "The Lord of the Rings",
+          "borrowDate": "2024-07-22",
+          "returnDate": "2024-08-22"
+        },
+        {
+          "_id": "yhn67ujm",
+          "bookTitle": "The Hobbit",
+          "borrowDate": "2024-11-05",
+          "returnDate": "2024-12-05"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885da",
+      "name": "Enrico",
+      "surname": "De Luca",
+      "birthDate": "1995-07-31",
+      "birthPlace": "Ferrara",
+      "email": "enrico.deluca@yahoo.com",
+      "loans": [
+        {
+          "_id": "ujm89ikm",
+          "bookTitle": "La coscienza di Zeno",
+          "borrowDate": "2024-05-15",
+          "returnDate": "2024-06-15"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885db",
+      "name": "Camilla",
+      "surname": "Martini",
+      "birthDate": "1987-01-26",
+      "birthPlace": "Salerno",
+      "email": "camilla.martini@gmail.com",
+      "loans": [
+        {
+          "_id": "plm21okn",
+          "bookTitle": "Il fu Mattia Pascal",
+          "borrowDate": "2024-04-08",
+          "returnDate": "2024-05-08"
+        },
+        {
+          "_id": "qwe45tgb",
+          "bookTitle": "Uno, nessuno e centomila",
+          "borrowDate": "2024-10-12",
+          "returnDate": "2024-11-12"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885dc",
+      "name": "Gabriele",
+      "surname": "Grassi",
+      "birthDate": "1972-08-13",
+      "birthPlace": "Latina",
+      "email": "gabriele.grassi@alice.it",
+      "loans": [
+        {
+          "_id": "okn21qwe",
+          "bookTitle": "La solitudine dei numeri primi",
+          "borrowDate": "2024-03-30",
+          "returnDate": "2024-04-30"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885dd",
+      "name": "Alice",
+      "surname": "Valentini",
+      "birthDate": "1993-05-07",
+      "birthPlace": "Forlì",
+      "email": "alice.valentini@hotmail.com",
+      "loans": [
+        {
+          "_id": "edc34rfv",
+          "bookTitle": "The Alchemist",
+          "borrowDate": "2024-02-20",
+          "returnDate": "2024-03-20"
+        },
+        {
+          "_id": "wsx56qaz",
+          "bookTitle": "Storia del nuovo cognome",
+          "borrowDate": "2024-08-28",
+          "returnDate": "2024-09-28"
+        },
+        {
+          "_id": "tgb67yhn",
+          "bookTitle": "L'amica geniale",
+          "borrowDate": "2024-12-15",
+          "returnDate": "2025-01-15"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885de",
+      "name": "Leonardo",
+      "surname": "Benedetti",
+      "birthDate": "1986-12-04",
+      "birthPlace": "Vicenza",
+      "email": "leonardo.benedetti@yahoo.com",
+      "loans": [
+        {
+          "_id": "yhn67ujm",
+          "bookTitle": "Cristo si è fermato a Eboli",
+          "borrowDate": "2024-06-10",
+          "returnDate": "2024-07-10"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885df",
+      "name": "Vittoria",
+      "surname": "Piras",
+      "birthDate": "1998-03-19",
+      "birthPlace": "Novara",
+      "email": "vittoria.piras@gmail.com",
+      "loans": [
+        {
+          "_id": "ujm89ikm",
+          "bookTitle": "The Catcher in the Rye",
+          "borrowDate": "2024-05-25",
+          "returnDate": "2024-06-25"
+        },
+        {
+          "_id": "plm21okn",
+          "bookTitle": "Il visconte dimezzato",
+          "borrowDate": "2024-10-18",
+          "returnDate": "2024-11-18"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885e0",
+      "name": "Dario",
+      "surname": "Ferraro",
+      "birthDate": "1979-09-22",
+      "birthPlace": "Alessandria",
+      "email": "dario.ferraro@libero.it",
+      "loans": [
+        {
+          "_id": "qwe45tgb",
+          "bookTitle": "La tregua",
+          "borrowDate": "2024-04-12",
+          "returnDate": "2024-05-12"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885e1",
+      "name": "Elisabetta",
+      "surname": "Sartori",
+      "birthDate": "1984-06-15",
+      "birthPlace": "Pistoia",
+      "email": "elisabetta.sartori@hotmail.com",
+      "loans": [
+        {
+          "_id": "okn21qwe",
+          "bookTitle": "I sommersi e i salvati",
+          "borrowDate": "2024-03-05",
+          "returnDate": "2024-04-05"
+        },
+        {
+          "_id": "edc34rfv",
+          "bookTitle": "Il cavaliere inesistente",
+          "borrowDate": "2024-09-20",
+          "returnDate": "2024-10-20"
+        },
+        {
+          "_id": "wsx56qaz",
+          "bookTitle": "Se una notte d'inverno un viaggiatore",
+          "borrowDate": "2024-12-10",
+          "returnDate": "2025-01-10"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885e2",
+      "name": "Filippo",
+      "surname": "Ruggeri",
+      "birthDate": "1991-11-28",
+      "birthPlace": "Como",
+      "email": "filippo.ruggeri@yahoo.com",
+      "loans": [
+        {
+          "_id": "tgb67yhn",
+          "bookTitle": "Il deserto dei Tartari",
+          "borrowDate": "2024-07-15",
+          "returnDate": "2024-08-15"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885e3",
+      "name": "Giorgia",
+      "surname": "Sorrentino",
+      "birthDate": "1976-04-03",
+      "birthPlace": "Lucca",
+      "email": "giorgia.sorrentino@gmail.com",
+      "loans": [
+        {
+          "_id": "yhn67ujm",
+          "bookTitle": "The Da Vinci Code",
+          "borrowDate": "2024-06-22",
+          "returnDate": "2024-07-22"
+        },
+        {
+          "_id": "ujm89ikm",
+          "bookTitle": "Una vita",
+          "borrowDate": "2024-11-25",
+          "returnDate": "2024-12-25"
+        }
+      ]
+    },
+    {
+      "_id": "59b99db5cfa9a34dcd7885e4",
+      "name": "Stefano",
+      "surname": "D'Angelo",
+      "birthDate": "1989-08-07",
+      "birthPlace": "Grosseto",
+      "email": "stefano.dangelo@alice.it",
+      "loans": [
+        {
+          "_id": "plm21okn",
+          "bookTitle": "Un cuore semplice",
+          "borrowDate": "2024-05-10",
+          "returnDate": "2024-06-10"
+        }
+      ]
+    }]
+}

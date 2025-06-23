@@ -1,0 +1,622 @@
+{
+  "authors": [
+    {
+      "_id": "auth_00123abcd",
+      "name": "Italo Calvino",
+      "birthDate": "1923-10-15",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_00234bcde",
+      "name": "Primo Levi",
+      "birthDate": "1919-07-31",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_00345cdef",
+      "name": "Elena Ferrante",
+      "birthDate": "1943-04-12",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_00456defg",
+      "name": "Harper Lee",
+      "birthDate": "1926-04-28",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_00567efgh",
+      "name": "George Orwell",
+      "birthDate": "1903-06-25",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_00678fghi",
+      "name": "Umberto Eco",
+      "birthDate": "1932-01-05",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_00789ghij",
+      "name": "Italo Svevo",
+      "birthDate": "1861-12-19",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_00890hijk",
+      "name": "Albert Camus",
+      "birthDate": "1913-11-07",
+      "nationality": "fr"
+    },
+    {
+      "_id": "auth_00901ijkl",
+      "name": "Alessandro Manzoni",
+      "birthDate": "1785-03-07",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_01012jklm",
+      "name": "Jane Austen",
+      "birthDate": "1775-12-16",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_01123klmn",
+      "name": "Yuval Noah Harari",
+      "birthDate": "1976-02-24",
+      "nationality": "il"
+    },
+    {
+      "_id": "auth_01234lmno",
+      "name": "Roberto Saviano",
+      "birthDate": "1979-09-22",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_01345mnop",
+      "name": "J.R.R. Tolkien",
+      "birthDate": "1892-01-03",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_01456nopq",
+      "name": "Gabriel García Márquez",
+      "birthDate": "1927-03-06",
+      "nationality": "co"
+    },
+    {
+      "_id": "auth_01567opqr",
+      "name": "Luigi Pirandello",
+      "birthDate": "1867-06-28",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_01678pqrs",
+      "name": "Stephen Hawking",
+      "birthDate": "1942-01-08",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_01789qrst",
+      "name": "Paolo Giordano",
+      "birthDate": "1982-12-19",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_01890rstu",
+      "name": "Paulo Coelho",
+      "birthDate": "1947-08-24",
+      "nationality": "br"
+    },
+    {
+      "_id": "auth_01901stuv",
+      "name": "Carlo Levi",
+      "birthDate": "1902-11-29",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_02012tuvw",
+      "name": "J.D. Salinger",
+      "birthDate": "1919-01-01",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_02123uvwx",
+      "name": "Antoine de Saint-Exupéry",
+      "birthDate": "1900-06-29",
+      "nationality": "fr"
+    },
+    {
+      "_id": "auth_02234vwxy",
+      "name": "Edward Albee",
+      "birthDate": "1928-03-12",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_02345wxyz",
+      "name": "Suzanne Collins",
+      "birthDate": "1962-08-10",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_02456xyza",
+      "name": "Dino Buzzati",
+      "birthDate": "1906-10-16",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_02567yzab",
+      "name": "Dan Brown",
+      "birthDate": "1964-06-22",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_02678zabc",
+      "name": "Gustave Flaubert",
+      "birthDate": "1821-12-12",
+      "nationality": "fr"
+    },
+    {
+      "_id": "auth_02789abcd",
+      "name": "F. Scott Fitzgerald",
+      "birthDate": "1896-09-24",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_02890bcde",
+      "name": "Gary K. Wolf",
+      "birthDate": "1941-01-24",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_02901cdef",
+      "name": "Fyodor Dostoevsky",
+      "birthDate": "1821-11-11",
+      "nationality": "ru"
+    },
+    {
+      "_id": "auth_03012defg",
+      "name": "Thomas Mann",
+      "birthDate": "1875-06-06",
+      "nationality": "de"
+    },
+    {
+      "_id": "auth_03123efgh",
+      "name": "Milan Kundera",
+      "birthDate": "1929-04-01",
+      "nationality": "cz"
+    },
+    {
+      "_id": "auth_03234fghi",
+      "name": "Niccolò Ammaniti",
+      "birthDate": "1966-09-25",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_03345ghij",
+      "name": "Sandro Veronesi",
+      "birthDate": "1959-07-18",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_03456hijk",
+      "name": "Aldous Huxley",
+      "birthDate": "1894-07-26",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_03567ijkl",
+      "name": "Federico Moccia",
+      "birthDate": "1963-07-20",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_03678jklm",
+      "name": "Paolo Cognetti",
+      "birthDate": "1978-01-05",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_03789klmn",
+      "name": "J.K. Rowling",
+      "birthDate": "1965-07-31",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_03890lmno",
+      "name": "Franz Kafka",
+      "birthDate": "1883-07-03",
+      "nationality": "cz"
+    },
+    {
+      "_id": "auth_03901mnop",
+      "name": "Natalia Ginzburg",
+      "birthDate": "1916-07-14",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_04012nopq",
+      "name": "Charlotte Brontë",
+      "birthDate": "1816-04-21",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_04123opqr",
+      "name": "Claudia Durastanti",
+      "birthDate": "1984-08-15",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_04234pqrs",
+      "name": "Ray Bradbury",
+      "birthDate": "1920-08-22",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_04345qrst",
+      "name": "Virginia Woolf",
+      "birthDate": "1882-01-25",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_04456rstu",
+      "name": "Ernest Hemingway",
+      "birthDate": "1899-07-21",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_04567stuv",
+      "name": "Agatha Christie",
+      "birthDate": "1890-09-15",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_04678tuvw",
+      "name": "Isabel Allende",
+      "birthDate": "1942-08-02",
+      "nationality": "cl"
+    },
+    {
+      "_id": "auth_04789uvwx",
+      "name": "Toni Morrison",
+      "birthDate": "1931-02-18",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_04890vwxy",
+      "name": "Chinua Achebe",
+      "birthDate": "1930-11-16",
+      "nationality": "ng"
+    },
+    {
+      "_id": "auth_04901wxyz",
+      "name": "Haruki Murakami",
+      "birthDate": "1949-01-12",
+      "nationality": "jp"
+    },
+    {
+      "_id": "auth_05012xyza",
+      "name": "Salman Rushdie",
+      "birthDate": "1947-06-19",
+      "nationality": "in"
+    },
+    {
+      "_id": "auth_05123yzab",
+      "name": "Mario Vargas Llosa",
+      "birthDate": "1936-03-28",
+      "nationality": "pe"
+    },
+    {
+      "_id": "auth_05234zabc",
+      "name": "Zadie Smith",
+      "birthDate": "1975-10-25",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_05345abcd",
+      "name": "Jonathan Franzen",
+      "birthDate": "1959-08-17",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_05456bcde",
+      "name": "Donna Tartt",
+      "birthDate": "1963-12-23",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_05567cdef",
+      "name": "Margaret Atwood",
+      "birthDate": "1939-11-18",
+      "nationality": "ca"
+    },
+    {
+      "_id": "auth_05678defg",
+      "name": "Orhan Pamuk",
+      "birthDate": "1952-06-07",
+      "nationality": "tr"
+    },
+    {
+      "_id": "auth_05789efgh",
+      "name": "Kazuo Ishiguro",
+      "birthDate": "1954-11-08",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_05890fghi",
+      "name": "Don DeLillo",
+      "birthDate": "1936-11-20",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_05901ghij",
+      "name": "Michael Crichton",
+      "birthDate": "1942-10-23",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_06012hijk",
+      "name": "Stephen King",
+      "birthDate": "1947-09-21",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_06123ijkl",
+      "name": "Patricia Highsmith",
+      "birthDate": "1921-01-19",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_06234jklm",
+      "name": "Gillian Flynn",
+      "birthDate": "1971-02-24",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_06345klmn",
+      "name": "John Irving",
+      "birthDate": "1942-03-02",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_06456lmno",
+      "name": "Kurt Vonnegut",
+      "birthDate": "1922-11-11",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_06567mnop",
+      "name": "Philip K. Dick",
+      "birthDate": "1928-12-16",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_06678nopq",
+      "name": "Isaac Asimov",
+      "birthDate": "1920-01-02",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_06789opqr",
+      "name": "Ursula K. Le Guin",
+      "birthDate": "1929-10-21",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_06890pqrs",
+      "name": "Arthur C. Clarke",
+      "birthDate": "1917-12-16",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_06901qrst",
+      "name": "Douglas Adams",
+      "birthDate": "1952-03-11",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_07012rstu",
+      "name": "Terry Pratchett",
+      "birthDate": "1948-04-28",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_07123stuv",
+      "name": "Neil Gaiman",
+      "birthDate": "1960-11-10",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_07234tuvw",
+      "name": "George R.R. Martin",
+      "birthDate": "1948-09-20",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_07345uvwx",
+      "name": "Brandon Sanderson",
+      "birthDate": "1975-12-19",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_07456vwxy",
+      "name": "Robin Hobb",
+      "birthDate": "1952-03-05",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_07567wxyz",
+      "name": "Joe Abercrombie",
+      "birthDate": "1974-12-31",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_07678xyza",
+      "name": "Patrick Rothfuss",
+      "birthDate": "1973-06-06",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_07789yzab",
+      "name": "Bram Stoker",
+      "birthDate": "1847-11-08",
+      "nationality": "ie"
+    },
+    {
+      "_id": "auth_07890zabc",
+      "name": "Mary Shelley",
+      "birthDate": "1797-08-30",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_07901abcd",
+      "name": "Edgar Allan Poe",
+      "birthDate": "1809-01-19",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_08012bcde",
+      "name": "H.P. Lovecraft",
+      "birthDate": "1890-08-20",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_08123cdef",
+      "name": "Arthur Conan Doyle",
+      "birthDate": "1859-05-22",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_08234defg",
+      "name": "Raymond Chandler",
+      "birthDate": "1888-07-23",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_08345efgh",
+      "name": "Dashiell Hammett",
+      "birthDate": "1894-05-27",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_08456fghi",
+      "name": "John le Carré",
+      "birthDate": "1931-10-19",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_08567ghij",
+      "name": "Ian Fleming",
+      "birthDate": "1908-05-28",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_08678hijk",
+      "name": "Ken Follett",
+      "birthDate": "1949-06-05",
+      "nationality": "gb"
+    },
+    {
+      "_id": "auth_08789ijkl",
+      "name": "Tom Clancy",
+      "birthDate": "1947-04-12",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_08890jklm",
+      "name": "John Grisham",
+      "birthDate": "1955-02-08",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_08901klmn",
+      "name": "Michael Connelly",
+      "birthDate": "1956-07-21",
+      "nationality": "us"
+    },
+    {
+      "_id": "auth_09012lmno",
+      "name": "Stieg Larsson",
+      "birthDate": "1954-08-15",
+      "nationality": "se"
+    },
+    {
+      "_id": "auth_09123mnop",
+      "name": "Henning Mankell",
+      "birthDate": "1948-02-03",
+      "nationality": "se"
+    },
+    {
+      "_id": "auth_09234nopq",
+      "name": "Camilla Läckberg",
+      "birthDate": "1974-08-30",
+      "nationality": "se"
+    },
+    {
+      "_id": "auth_09345opqr",
+      "name": "Tana French",
+      "birthDate": "1973-05-10",
+      "nationality": "ie"
+    },
+    {
+      "_id": "auth_09456pqrs",
+      "name": "Louise Penny",
+      "birthDate": "1958-07-01",
+      "nationality": "ca"
+    },
+    {
+      "_id": "auth_09567qrst",
+      "name": "Andrea Camilleri",
+      "birthDate": "1925-09-06",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_09678rstu",
+      "name": "Maurizio de Giovanni",
+      "birthDate": "1958-03-31",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_09789stuv",
+      "name": "Giancarlo De Cataldo",
+      "birthDate": "1956-05-30",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_09890tuvw",
+      "name": "Carlo Lucarelli",
+      "birthDate": "1960-10-26",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_09901uvwx",
+      "name": "Donato Carrisi",
+      "birthDate": "1973-03-25",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_10012vwxy",
+      "name": "Sandrone Dazieri",
+      "birthDate": "1964-11-05",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_10123wxyz",
+      "name": "Massimo Carlotto",
+      "birthDate": "1956-07-22",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_10234xyza",
+      "name": "Gianrico Carofiglio",
+      "birthDate": "1961-05-30",
+      "nationality": "it"
+    },
+    {
+      "_id": "auth_10345yzab",
+      "name": "Antonio Manzini",
+      "birthDate": "1964-04-01",
+      "nationality": "it"
+    }
+  ]
+}

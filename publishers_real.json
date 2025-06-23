@@ -1,0 +1,273 @@
+{
+  "publishers": [
+    {
+      "_id": "pub_0001_abcde",
+      "name": "Mondadori",
+      "country": "Italy",
+      "foundationYear": "1907"
+    },
+    {
+      "_id": "pub_0002_bcdef",
+      "name": "Einaudi",
+      "country": "Italy",
+      "foundationYear": "1933"
+    },
+    {
+      "_id": "pub_0003_cdefg",
+      "name": "E/O",
+      "country": "Italy",
+      "foundationYear": "1979"
+    },
+    {
+      "_id": "pub_0004_defgh",
+      "name": "HarperCollins",
+      "country": "United States",
+      "foundationYear": "1817"
+    },
+    {
+      "_id": "pub_0005_efghi",
+      "name": "Signet Classics",
+      "country": "United States",
+      "foundationYear": "1948"
+    },
+    {
+      "_id": "pub_0006_fghij",
+      "name": "Gallimard",
+      "country": "France",
+      "foundationYear": "1911"
+    },
+    {
+      "_id": "pub_0007_ghijk",
+      "name": "Penguin Classics",
+      "country": "United Kingdom",
+      "foundationYear": "1935"
+    },
+    {
+      "_id": "pub_0008_hijkl",
+      "name": "Bompiani",
+      "country": "Italy",
+      "foundationYear": "1929"
+    },
+    {
+      "_id": "pub_0009_ijklm",
+      "name": "Houghton Mifflin",
+      "country": "United States",
+      "foundationYear": "1832"
+    },
+    {
+      "_id": "pub_0010_jklmn",
+      "name": "Bantam",
+      "country": "United States",
+      "foundationYear": "1945"
+    },
+    {
+      "_id": "pub_0011_klmno",
+      "name": "Little, Brown",
+      "country": "United States",
+      "foundationYear": "1837"
+    },
+    {
+      "_id": "pub_0012_lmnop",
+      "name": "Scholastic",
+      "country": "United States",
+      "foundationYear": "1920"
+    },
+    {
+      "_id": "pub_0013_mnopq",
+      "name": "Adelphi",
+      "country": "Italy",
+      "foundationYear": "1962"
+    },
+    {
+      "_id": "pub_0014_nopqr",
+      "name": "Doubleday",
+      "country": "United States",
+      "foundationYear": "1897"
+    },
+    {
+      "_id": "pub_0015_opqrs",
+      "name": "Scribner",
+      "country": "United States",
+      "foundationYear": "1846"
+    },
+    {
+      "_id": "pub_0016_pqrst",
+      "name": "Bloomsbury",
+      "country": "United Kingdom",
+      "foundationYear": "1986"
+    },
+    {
+      "_id": "pub_0017_qrstu",
+      "name": "Farrar, Straus and Giroux",
+      "country": "United States",
+      "foundationYear": "1946"
+    },
+    {
+      "_id": "pub_0018_rstuv",
+      "name": "Feltrinelli",
+      "country": "Italy",
+      "foundationYear": "1954"
+    },
+    {
+      "_id": "pub_0019_stuvw",
+      "name": "Rizzoli",
+      "country": "Italy",
+      "foundationYear": "1909"
+    },
+    {
+      "_id": "pub_0020_tuvwx",
+      "name": "Garzanti",
+      "country": "Italy",
+      "foundationYear": "1861"
+    },
+    {
+      "_id": "pub_0021_uvwxy",
+      "name": "Longanesi",
+      "country": "Italy",
+      "foundationYear": "1946"
+    },
+    {
+      "_id": "pub_0022_vwxyz",
+      "name": "Random House",
+      "country": "United States",
+      "foundationYear": "1927"
+    },
+    {
+      "_id": "pub_0023_wxyza",
+      "name": "Vintage",
+      "country": "United States",
+      "foundationYear": "1954"
+    },
+    {
+      "_id": "pub_0024_xyzab",
+      "name": "Knopf",
+      "country": "United States",
+      "foundationYear": "1915"
+    },
+    {
+      "_id": "pub_0025_yzabc",
+      "name": "Viking",
+      "country": "United States",
+      "foundationYear": "1925"
+    },
+    {
+      "_id": "pub_0026_zabcd",
+      "name": "Grove Press",
+      "country": "United States",
+      "foundationYear": "1947"
+    },
+    {
+      "_id": "pub_0027_abcde",
+      "name": "Norton",
+      "country": "United States",
+      "foundationYear": "1923"
+    },
+    {
+      "_id": "pub_0028_bcedf",
+      "name": "Faber & Faber",
+      "country": "United Kingdom",
+      "foundationYear": "1929"
+    },
+    {
+      "_id": "pub_0029_cdefg",
+      "name": "Macmillan",
+      "country": "United Kingdom",
+      "foundationYear": "1843"
+    },
+    {
+      "_id": "pub_0030_defgh",
+      "name": "Jonathan Cape",
+      "country": "United Kingdom",
+      "foundationYear": "1921"
+    },
+    {
+      "_id": "pub_0031_efghi",
+      "name": "Secker & Warburg",
+      "country": "United Kingdom",
+      "foundationYear": "1935"
+    },
+    {
+      "_id": "pub_0032_fghij",
+      "name": "Seuil",
+      "country": "France",
+      "foundationYear": "1935"
+    },
+    {
+      "_id": "pub_0033_ghijk",
+      "name": "Flammarion",
+      "country": "France",
+      "foundationYear": "1875"
+    },
+    {
+      "_id": "pub_0034_hijkl",
+      "name": "Grasset",
+      "country": "France",
+      "foundationYear": "1907"
+    },
+    {
+      "_id": "pub_0035_ijklm",
+      "name": "Albin Michel",
+      "country": "France",
+      "foundationYear": "1900"
+    },
+    {
+      "_id": "pub_0036_jklmn",
+      "name": "Plon",
+      "country": "France",
+      "foundationYear": "1845"
+    },
+    {
+      "_id": "pub_0037_klmno",
+      "name": "Fischer",
+      "country": "Germany",
+      "foundationYear": "1886"
+    },
+    {
+      "_id": "pub_0038_lmnop",
+      "name": "Suhrkamp",
+      "country": "Germany",
+      "foundationYear": "1950"
+    },
+    {
+      "_id": "pub_0039_mnopq",
+      "name": "Hanser",
+      "country": "Germany",
+      "foundationYear": "1928"
+    },
+    {
+      "_id": "pub_0040_nopqr",
+      "name": "Rowohlt",
+      "country": "Germany",
+      "foundationYear": "1908"
+    },
+    {
+      "_id": "pub_0041_opqrs",
+      "name": "Anagrama",
+      "country": "Spain",
+      "foundationYear": "1969"
+    },
+    {
+      "_id": "pub_0042_pqrst",
+      "name": "Alfaguara",
+      "country": "Spain",
+      "foundationYear": "1964"
+    },
+    {
+      "_id": "pub_0043_qrstu",
+      "name": "Tusquets",
+      "country": "Spain",
+      "foundationYear": "1969"
+    },
+    {
+      "_id": "pub_0044_rstuv",
+      "name": "McClelland & Stewart",
+      "country": "Canada",
+      "foundationYear": "1906"
+    },
+    {
+      "_id": "pub_0045_stuvw",
+      "name": "Douglas & McIntyre",
+      "country": "Canada",
+      "foundationYear": "1971"
+    }]
+}
