@@ -1,5 +1,4 @@
-{
-  "authors": [
+[
     {
       "_id": "auth_00123abcd",
       "name": "Italo Calvino",
@@ -617,6 +616,4 @@
       "name": "Antonio Manzini",
       "birthDate": "1964-04-01",
       "nationality": "it"
-    }
-  ]
-}
+    }]
