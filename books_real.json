@@ -1,5 +1,4 @@
-{
-  "books": [
+[
     {
       "isbn": "9788804507681",
       "title": "Il barone rampante",
@@ -928,4 +927,3 @@
         "name": "E/O"
       }
     }]
-}
