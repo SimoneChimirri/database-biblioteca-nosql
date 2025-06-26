@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Configurazione
-DB_NAME="biblioteca"
 COLLECTION_NAME="books"
 FILE_PATH="books_real.json"
 MONGO_PORT="27017"
