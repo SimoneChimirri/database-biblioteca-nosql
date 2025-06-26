@@ -1,5 +1,4 @@
-{
-  "loans": [
+[
     {
       "_id": "loan_001",
       "book": {
@@ -847,4 +846,3 @@
       "returnDate": "2025-02-28",
       "user_id": "59b99db5cfa9a34dcd7885d9"
     }]
-}
