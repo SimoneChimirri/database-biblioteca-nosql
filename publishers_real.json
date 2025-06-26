@@ -1,5 +1,4 @@
-{
-  "publishers": [
+[
     {
       "_id": "pub_0001_abcde",
       "name": "Mondadori",
@@ -270,4 +269,3 @@
       "country": "Canada",
       "foundationYear": "1971"
     }]
-}
